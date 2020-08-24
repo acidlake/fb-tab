@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T14:24:37.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.6.4" etag="XpDT2J2Ok_sq5yhA4liu" type="github"><diagram id="kUoN7n48B1p39ZaA3kRW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-24T14:29:17.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="sgmrPcK-wTWX69AVMcBE" version="13.6.4" type="github">
+  <diagram id="kUoN7n48B1p39ZaA3kRW" name="Page-1">
+    <mxGraphModel dx="849" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="50" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;" vertex="1" parent="VEJPsY9aDAab9NVDAuQj-4">
+          <mxGeometry width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-2" value="Service A" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=0;" vertex="1" parent="VEJPsY9aDAab9NVDAuQj-4">
+          <mxGeometry width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-3" value="Code To Signup a User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="VEJPsY9aDAab9NVDAuQj-4">
+          <mxGeometry x="10" y="50" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-5" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="210" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;" vertex="1" parent="VEJPsY9aDAab9NVDAuQj-5">
+          <mxGeometry width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-7" value="Service B" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=0;" vertex="1" parent="VEJPsY9aDAab9NVDAuQj-5">
+          <mxGeometry width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-8" value="Code To Signup a User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="VEJPsY9aDAab9NVDAuQj-5">
+          <mxGeometry x="10" y="50" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-9" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="360" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=1;" vertex="1" parent="VEJPsY9aDAab9NVDAuQj-9">
+          <mxGeometry width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-11" value="Service C" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=2;shadow=0;" vertex="1" parent="VEJPsY9aDAab9NVDAuQj-9">
+          <mxGeometry width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEJPsY9aDAab9NVDAuQj-12" value="Code To Signup a User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="VEJPsY9aDAab9NVDAuQj-9">
+          <mxGeometry x="10" y="50" width="320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
